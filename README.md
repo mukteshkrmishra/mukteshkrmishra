@@ -22,7 +22,7 @@
 
 
 My websites: 
-<a href="https://www.muktesh.dev/dist"><img src="https://img.shields.io/website?down_color=grey&down_message=down...&label=muktesh.dev&up_color=green&up_message=up%21&url=https%3A%2F%2Fwww.muktesh.dev"></a>
+<a href="https://www.muktesh.dev"><img src="https://img.shields.io/website?down_color=grey&down_message=down...&label=muktesh.dev&up_color=green&up_message=up%21&url=https%3A%2F%2Fwww.muktesh.dev"></a>
 <a href="https://sunnyvalejug.org"><img src="https://img.shields.io/website?down_color=grey&down_message=down...&label=sunnyvalejug.org&up_color=green&up_message=up%21&url=https%3A%2F%2Fwww.sunnyvalejug.org"></a>
 
 
