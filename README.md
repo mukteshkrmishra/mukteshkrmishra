@@ -8,7 +8,7 @@
 </div>
 <br/>
 <ul>
-<li>CD.Foundation Ambassador, Author Open Source enthusiast and contributor. </li>
+<li>CD.Foundation Ambassador, Author, Open Source enthusiast and contributor. </li>
 
 <li>Engineer, leader, mentor, speaker.</li>
 
